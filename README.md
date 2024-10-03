@@ -2,8 +2,8 @@
 Proyek akhir belajar analisis data dengan python
 ## Setup Environment - Shell/Terminal
 ```
-mkdir submission
-cd submission
+mkdir dicoding_proyek_analisis_data
+cd dicoding_proyek_analisis_data
 pipenv install
 pipenv shell
 pip install -r requirements.txt
