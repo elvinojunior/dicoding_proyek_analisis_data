@@ -1,1 +1,1 @@
-http://elvinojr75-streamlit-app-url
+streamlit run dashboard.py
