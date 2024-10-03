@@ -42,7 +42,7 @@ st.header("Bike Usage Analysis")
 st.pyplot(fig, use_container_width=True)
 st.pyplot(fig2, use_container_width=True)
 
-url = "http://elvinojr75-streamlit-app-url"  # Replace with your actual URL
+url = "http://elvinojr75-streamlit-app-url"
 
 with open("url.txt", "w") as f:
     f.write(url)
