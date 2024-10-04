@@ -45,6 +45,11 @@ ax2.set_ylabel('Average Number of Users')
 ax2.grid(True)
 
 
-st.header("Bike Usage Analysis")
+st.header("Hasil analisis penyewa sepeda")
+st.write("\n")
+st.write("Tabel tipe penyewa rata-rata berdasarkan bulan")
 st.pyplot(fig, use_container_width=True)
+st.write("\n")
+st.write("\n")
+st.write("Tabel Rata-rata penyewa berdasarkan tipe hari")
 st.pyplot(fig2, use_container_width=True)
