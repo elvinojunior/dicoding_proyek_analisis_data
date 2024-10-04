@@ -1,6 +1,13 @@
 # Bike Sharing dataset
 Proyek akhir belajar analisis data dengan python
 
+## Feature
+```
+Dataset Bike sharing adalah data informasi berisi tentang penyewaan sepeda
+disini saya explorasi serta melakukan visualisasi untuk :
+1. Menampilkan jumlah perbedaan pengguna pada hari kerja dan hari libur
+2. Menampilkan perbandingan jumlah pengguna kasual dan pengguna terdaftar
+```
 ## Requirements
 ```
 Pastikan anda sudah menginstall python
