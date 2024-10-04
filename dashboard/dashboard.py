@@ -4,7 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import date
 
-day_df = pd.read_csv('day_df.csv')
+script_dir = os.path.dirname(os.path.realpath(__file__))
+day_df= pd.read_csv(f"{script_dir}/day_df.csv")
 day_df['dteday'] = pd.to_datetime(day_df['dteday'])
 
 st.sidebar.header("Select Date Range")
