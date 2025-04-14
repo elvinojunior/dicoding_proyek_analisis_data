@@ -28,3 +28,7 @@ pip install -r requirements.txt
 cd dashboard
 streamlit run dashboard.py
 ```
+
+# Grade
+![image](https://github.com/user-attachments/assets/e2f5f6dc-7caf-44e4-a6ff-b49fee1aa380)
+
